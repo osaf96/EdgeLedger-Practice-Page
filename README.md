@@ -9,6 +9,17 @@ What I learn
 3. Coding clean and efficently
 4. Code resuability
 
-## It's not completed yet.
+
+## UPDATE
+1. Added contact and footer section
+2. Added smooth scroll using js animate function
+3. Added Google map 
+4. Added responsiveness for Mobile and tablet devices
+
 
 ![alt text](img/screenshot.png)
+## For Tablet
+![alt text](img/screenshot-tab.png)
+## For Mobile Devices
+![alt text](img/screenshot-mob.png)
+
